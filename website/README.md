@@ -1,0 +1,1 @@
+This folder contains a minimal static website for the **Next.js Enterprise Boilerplate**. It demonstrates the features listed in the project README. Due to environment restrictions, this is only a static HTML representation.
